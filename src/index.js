@@ -12,7 +12,7 @@ conectarDB();
 
 dotenv.config();
 
-
+//cambios  para video de gestion de calidad
 
 
 //configuracion de cors
